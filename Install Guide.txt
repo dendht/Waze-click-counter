@@ -1,0 +1,8 @@
+Waze counter chrome extension quick installation guide:
+1. Unpack chrome_waze_count_v1.1.zip into any folder
+2. Open Chrome -> Settings -> extensions
+3. Turn ON "Developer mode" (checkbox in top right of the page)
+4. Click "Install unpacked extension" -> then choose folder with unpacked from .zip file extension files
+5. Enjoy
+
+NOTICE that each time you will click "Clear" in the extension, counter will be set to "0"
